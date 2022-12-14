@@ -10,8 +10,8 @@ Ascii-art-stylize consists on making your site :
    - more appealing, interactive and intuitive.
    - more user friendly.
     
-# Authors
-@Abdolla && @Bagdaulet02
+# Author
+@Abdolla
 
 # Usage
 1.To run program use the following command
